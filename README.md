@@ -14,4 +14,4 @@ This program consists in an HTML file to create the structure of the webpage, a 
 
 ## Do you want to try my counter?
 It's easy!</br>
-You just need to download the file and open the html file in a browser.
+You just need to click on **Code** and **Download ZIP** and after open the HTML file with your favorite browser.
