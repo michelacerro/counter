@@ -7,7 +7,7 @@ A basic counter coding in JavaScript with few elements:
 1. A **box** to display the count value (0 as the default value);
 2. A **+** bottom to increase the value in the box;
 3. A **-** bottom to reduce the value;
-4. A **reset** bottom to restart the value; 
+4. A **reset** bottom to restart the value. 
 
 ![README-counter](https://user-images.githubusercontent.com/78146321/114730370-18d55000-9d41-11eb-97e8-a7a06b7eb61b.png)
 
