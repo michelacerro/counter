@@ -12,7 +12,7 @@ A basic counter coding in JavaScript with few elements:
 
 
 ### Tecnical description 
-This program consists in an HTML file to create the structure of the webpage, a CSS file to customize style, a JS file for the instructions, and an image used as a background.
+This program consists in an HTML file to create the structure of the webpage, a CSS file to customize style, a JS file for the instructions, and a background image.
 
 ## Do you want to try my counter?
-It's easy! You just need to click on **Code** and **Download ZIP** and after open the HTML file with your favorite browser.
+It's easy! You just need to click on **Code** and **Download ZIP** and after that open the HTML file with your favorite browser.
